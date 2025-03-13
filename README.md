@@ -5,7 +5,15 @@ PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist, Full Stack Newbee
 
 * 🌍  I'm based in Great Bay Area, China
 * ✉️  You can contact me at [tigerlicuhk@gmail.com](mailto:tigerlicuhk@gmail.com)
-* 🧠  I'm learning LLM expertise, Dify, and more...
+* 🧠  I'm learning LLM expertise knowledge, coding-less/coding-free solution, and more...
+
+
+### Research Interests
+I focus on LLM-based Apps. Below are some stunning topics I am working on:
+
+* Good Data For AI: data cleaning and transformation.
+* Good AI For Research Service: tool, review, and community.
+
 
 ### Skills
 
@@ -25,6 +33,6 @@ PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist, Full Stack Newbee
 
 <a href="http://www.github.com/tigerlcl"><img src="https://github-readme-stats.vercel.app/api?username=tigerlcl&theme=neon&show_icons=true&hide=issues&count_private=true" alt="tigerlcl's GitHub stats" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/tigerlcl/arxivflow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tigerlcl&repo=arxivflow&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br /><br /><br />
