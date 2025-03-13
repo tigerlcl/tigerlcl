@@ -25,6 +25,7 @@ I focus on LLM-based Apps. Below are some stunning topics I am working on:
   <a href="https://go.dev/doc/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
   <a href="https://www.oracle.com/java/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a whref="https://www.overleaf.com/" target="blank" rel="noreferrer"><img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" width="36" height="36" alt="Latex" /></a>
 </p>
 
 
@@ -38,7 +39,6 @@ I focus on LLM-based Apps. Below are some stunning topics I am working on:
   <a href="https://dify.ai/" target="blank" rel="noreferrer"><img src="https://framerusercontent.com/images/bLsk0GCVzMv4OVqWyLWOceZMg.png" width="36" height="36" alt="Dify" /></a>
   <a href="https://www.cursor.com/" target="blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="36" height="36" alt="Cursor" /></a>
   <a href="https://www.postman.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
-  <a href="https://www.overleaf.com/" target="blank" rel="noreferrer"><img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" width="36" height="36" alt="Overleaf" /></a>
 </p>
 
 
