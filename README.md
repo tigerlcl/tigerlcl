@@ -32,7 +32,3 @@ I focus on LLM-based Apps. Below are some stunning topics I am working on:
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/tigerlcl"><img src="https://github-readme-stats.vercel.app/api?username=tigerlcl&theme=neon&show_icons=true&hide=issues&count_private=true" alt="tigerlcl's GitHub stats" /></a>
-
-
-
-<br /><br /><br /><br /><br /><br /><br />
