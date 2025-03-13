@@ -31,13 +31,13 @@ I focus on LLM-based Apps. Below are some stunning topics I am working on:
 
 #### Development Tools
 <p align="left">
+  <a href="https://www.cursor.com/" target="blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="36" height="36" alt="Cursor" /></a>
   <a href="https://code.visualstudio.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.jetbrains.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="36" height="36" alt="JetBrains" /></a>
   <a href="https://git-scm.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.figma.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://jupyter.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" /></a>
   <a href="https://dify.ai/" target="blank" rel="noreferrer"><img src="https://framerusercontent.com/images/bLsk0GCVzMv4OVqWyLWOceZMg.png" width="36" height="36" alt="Dify" /></a>
-  <a href="https://www.cursor.com/" target="blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="36" height="36" alt="Cursor" /></a>
   <a href="https://www.postman.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
 </p>
 
