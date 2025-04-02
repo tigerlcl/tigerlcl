@@ -4,15 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > 🌟 In me the tiger sniffs the rose. - Siegfried Sassoon
 
 PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist, Full Stack Newbee
-* 🌍  I'm based in the Great Bay Area, China
+* 🌍  I'm currently located in the Great Bay Area, China
 * ✉️  You can contact me via `tigerlicuhk[at]gmail.com`
+* 🧩  Received B.Eng Degree at CUHK (IE major + CS minor)
+* 🎨  3 years of working experience as a Data Scientist in a HK startup Company
 * 🧠  I'm learning LLM expertise knowledge, including multi-agent, coding-less/coding-free tech, and more...
 
 
 ### Research Interests
 I focus on LLM-based Apps. Below are some stunning topics I am working on:
 * Good Data For AI: data cleaning and transformation.
-* Good AI For Research Service: tool, review, and community.
+* Good AI For Research Services: tools, peer-review, and community.
+* Good AI For Fund Investment: Project Leader on [DeepFund](https://github.com/HKUSTDial/deepfund)
 
 
 ### Skills
