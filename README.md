@@ -1,24 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tiger, Changlun LI
+Hi! This is Tiger
 ================================================================================================================================
 
-> 🌟 In me the tiger sniffs the rose. - Siegfried Sassoon
+#### Short Bio
+PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist, Full Stack Newbee. I'm learning LLM expertise knowledge, including multi-agent, coding-less/coding-free tech, and more...
 
-PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist, Full Stack Newbee
-* 🌍  I'm currently located in the Great Bay Area, China
-* ✉️  You can contact me via `tigerlicuhk[at]gmail.com`
+* 🌍  Located in the Great Bay Area, China
 * 🧩  Received B.Eng Degree at CUHK (IE major + CS minor)
-* 🎨  3 years of working experience as a Data Scientist in a HK startup Company
-* 🧠  I'm learning LLM expertise knowledge, including multi-agent, coding-less/coding-free tech, and more...
-
-
-### Research Interests
-I focus on LLM-based Apps. Below are some stunning topics I am working on:
-* Good Data For AI: data cleaning and transformation.
-* Good AI For Research Services: tools, peer-review, and community.
-* Good AI For Fund Investment: Project Leader on [DeepFund](https://github.com/HKUSTDial/deepfund)
-
-
-### Skills
+* 🎨  3 years+ working experience at Data Science role
 
 
 #### Programming Languages
@@ -62,9 +50,11 @@ I focus on LLM-based Apps. Below are some stunning topics I am working on:
   <a href="https://aws.amazon.com" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
   <a href="https://azure.microsoft.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Microsoft Azure" /></a>
   <a href="https://www.docker.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://www.cloudflare.com/" target="blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"
+width="36" height="36" alt="Cloudflare" /></a>
 </p>
 
 
-### Badges
+#### Badges
 
 <a href="http://www.github.com/tigerlcl"><img src="https://github-readme-stats.vercel.app/api?username=tigerlcl&theme=neon&show_icons=true&hide=issues&count_private=true" alt="tigerlcl's GitHub stats" /></a>
