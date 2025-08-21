@@ -1,12 +1,14 @@
-Hi! This is Tiger
+Halo! This is Tiger
 ================================================================================================================================
 
 #### Short Bio
-PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist, Full Stack Newbee. I'm learning LLM expertise knowledge, including multi-agent, coding-less/coding-free tech, and more...
+PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist. Read [more](https://tigerlcl.github.io/) about me.
+* 🎓  Member of [HKUSTDial](https://github.com/HKUSTDial)
+* ⛵️  Founder of [ParadooxAI](https://github.com/ParadooxAI)
+* 🧩  Received B.Eng Degree at CUHK
+* 🎨  3 years+ working experience being a Data Scientist role
 
-* 🌍  Located in the Great Bay Area, China
-* 🧩  Received B.Eng Degree at CUHK (IE major + CS minor)
-* 🎨  3 years+ working experience at Data Science role
+
 
 
 #### Programming Languages
@@ -54,7 +56,3 @@ PhD Student@HKUST-GZ, AI Agent Developer, Data Scientist, Full Stack Newbee. I'm
 width="36" height="36" alt="Cloudflare" /></a>
 </p>
 
-
-#### Badges
-
-<a href="http://www.github.com/tigerlcl"><img src="https://github-readme-stats.vercel.app/api?username=tigerlcl&theme=neon&show_icons=true&hide=issues&count_private=true" alt="tigerlcl's GitHub stats" /></a>
