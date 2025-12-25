@@ -2,7 +2,8 @@ Halo! This is Tiger
 ================================================================================================================================
 
 ### Short Bio
-PhD Candidate@HKUST-GZ, applied AI researcher, (vibe) coder, data scientist. Member@[HKUSTDial](https://github.com/HKUSTDial), Founder@[ParadooxAI](https://www.paradoox.ai/). Learn [more](https://tigerlcl.github.io/).
+PhD Candidate@HKUST-GZ, applied AI researcher, (vibe) coder, data scientist. <br>
+Member@[HKUSTDial](https://github.com/HKUSTDial), Founder@[ParadooxAI](https://www.paradoox.ai/). Learn [more](https://tigerlcl.github.io/).
 
 ### Commonly Used Toolkits
 A list of tools that I use in recent months. How to find these cool icons? You may refer to the source code from its official page or a particular site, [devicon](https://devicon.dev/).
