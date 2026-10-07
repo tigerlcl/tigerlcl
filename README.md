@@ -10,9 +10,9 @@ A list of tools that I use in recent months. How to find these cool icons? You m
 
 **Applications**
 
-| [<img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="36" height="36" alt="Cursor" />](https://www.cursor.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" />](https://code.visualstudio.com/) | [<img src="https://cdn.simpleicons.org/overleaf/47A141" width="36" height="36" alt="Overleaf" />](https://www.overleaf.com/) | [<img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="36" height="36" alt="Obsidian" />](https://obsidian.md/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />](https://www.figma.com/) |
-|:--:|:--:|:--:|:--:|:--:|
-| Cursor | VS Code | Overleaf | Obsidian | Figma |
+| [<img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="36" height="36" alt="Cursor" />](https://www.cursor.com/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" width="36" height="36" alt="Codex" />](https://chatgpt.com/codex) | [<img src="https://cdn.simpleicons.org/overleaf/47A141" width="36" height="36" alt="Overleaf" />](https://www.overleaf.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />](https://www.figma.com/) |
+|:--:|:--:|:--:|:--:|
+| Cursor | Codex | Overleaf | Figma |
 
 **Services**
 
@@ -22,6 +22,6 @@ A list of tools that I use in recent months. How to find these cool icons? You m
 
 **LLMs**
 
-| [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/openai.svg" width="36" height="36" alt="GPT" />](https://openai.com/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/claude-color.svg" width="36" height="36" alt="Claude" />](https://claude.ai/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/gemini-color.svg" width="36" height="36" alt="Gemini" />](https://gemini.google.com/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/deepseek-color.svg" width="36" height="36" alt="DeepSeek" />](https://www.deepseek.com/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/qwen-color.svg" width="36" height="36" alt="Qwen" />](https://qwen.ai/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/doubao-color.svg" width="36" height="36" alt="Doubao" />](https://www.doubao.com/) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| GPT | Claude | Gemini | DeepSeek | Qwen | Doubao |
+| [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/openai.svg" width="36" height="36" alt="GPT" />](https://openai.com/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/gemini-color.svg" width="36" height="36" alt="Gemini" />](https://gemini.google.com/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/deepseek-color.svg" width="36" height="36" alt="DeepSeek" />](https://www.deepseek.com/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/qwen-color.svg" width="36" height="36" alt="Qwen" />](https://qwen.ai/) | [<img src="https://unpkg.com/@lobehub/icons-static-svg@1.88.0/icons/doubao-color.svg" width="36" height="36" alt="Doubao" />](https://www.doubao.com/) |
+|:--:|:--:|:--:|:--:|:--:|
+| GPT | Gemini | DeepSeek | Qwen | Doubao |
